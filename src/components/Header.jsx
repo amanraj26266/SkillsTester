@@ -72,7 +72,7 @@ export default function Header() {
                     ))}
 
                     <motion.a
-                        href="https://github.com/amanraj26266"
+                        href="https://github.com/amanraj26266/SkillsTester/tree/main/docs"
                         target="_blank"
                         rel="noreferrer"
                         whileHover={{ scale: 1.05, boxShadow: '0 0 20px rgba(124,58,237,0.5)' }}
